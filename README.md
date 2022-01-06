@@ -1,6 +1,4 @@
 # examen
-DATASET SELECTION:
-
 DATASET FROM KAGGLE.COM "CarPrice_Assignment.csv"
 
 LIBRARIES IMPORT:
